@@ -1,2 +1,17 @@
 # CRPG_DevTutorial
-A simple tutorial for rpg game dev in C programming.
+
+如何用 C 語言在 Windows 的環境下製作一個文字遊戲
+
+## 00 修改小黑窗的標題
+
+## 01 指定輸出的位置
+
+## 02 不需 Enter 的鍵盤互動
+
+## 03 隱藏閃爍的游標符號
+
+## 04 使用 Sleep 增加文字延遲
+
+## 05 中文應用
+
+## 06 猜數字
